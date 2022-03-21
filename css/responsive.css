@@ -1,0 +1,684 @@
+@media only screen and (min-width:768px) and (max-width:1169px) {
+
+img{max-width:100%; height:auto;}
+
+#cssmenu.align-center > ul > li{ margin:0px 2px; }
+
+#cssmenu > ul > li > a{font-size:10px;  padding:0px 4px;}
+
+.topsection01-right02{ width:70%; }
+
+.topsection01-right02 ul li{ font-size:10px; line-height:28px; }
+
+.banner-section .full-img-text{ text-align:center; }
+
+.homesetion01{ padding:25px 0px; }
+
+.homesetion01-box p{ font-size:13px; line-height:22px; text-align:justify; }
+
+.homesec02 p{ font-size:13px; line-height:22px; text-align:justify;}
+
+
+
+.homesec03 h2{ font-size:23px; line-height:normal; }
+
+.homesec03-box01 h3{ font-size:17px; }
+
+.homesec03-box01 p{ font-size:13px; line-height:normal; text-align:justify; min-height:115px; }
+
+
+
+
+
+.homessec04{ padding:30px 0px; }
+
+.homessec04-box{ background:none; }
+
+.homessec04-box01{ margin:0px auto 30px auto; }
+
+
+
+.homesec05{ padding:25px 0px; }
+
+.homesec05 h2{ font-size:25px; line-height:normal; }
+
+.homesec05-box h4{ font-size:16px; }
+
+.homesec05-box p{ font-size:14px; line-height:21px; }
+
+
+
+/*===========founder-section start================*/
+
+.founder-section01{ padding:30px 0px; }
+
+.founder-section01 .textsec{ padding-top:0px; }
+
+.founder-section02-box-right{ width:82%; }
+
+.founder-section02-box-right p{ font-size:14px; line-height:21px; }
+
+.founder-section03 .textsec p{ font-size:15px; text-align:justify; }
+
+.text-left{ text-align:center; }
+
+.banner-section .full-img-text h1{ font-size:40px; line-height:normal; }
+
+
+
+/*=============nirmund-architecture section start======================*/
+
+.circle-box{ background-size:35%; }
+
+.circle-box01{ width:300px; }
+
+.circle-box02{ width:300px; left:-35px; }
+
+.circle-box03{ width:300px; }
+
+.circle-box04{ width:300px; }
+
+.circle-box05{ width:300px; right:-35px; }
+
+.circle-box06{ width:300px; }
+
+
+
+.circleboxleft02{ width:25%;}
+
+.circleboxleft01{ width:73%;}
+
+.circleboxleft{ margin-bottom:15px; }
+
+.circleboxleft01{ padding-top:0px; }
+
+.architecturesection02-top h5{ margin-bottom:15px; }
+
+.circleboxleft p{ font-size:12px; line-height:normal; }
+
+.circleboxright p{ font-size:12px; line-height:normal; }
+
+.circleboxright02{ width:25%;}
+
+.circleboxright01{ width:73%; padding-top:0px;}
+
+.circleboxright{ margin-bottom:35px; }
+
+
+
+.architecturesection02-bottom01 h5{ font-size:15px; line-height:18px; }
+
+.architecturesection02-bottom01 p{ font-size:12px; }
+
+.architecturesection03-section .imgsec{ width:35%; }
+
+.architecturesection03-section p{ font-size:15px; line-height:25px; }
+
+
+
+.architecturesection04{ padding:30px 0px; }
+
+.architecturesection04 h4{ font-size:24px; line-height:34px; }
+
+.architecturesection01-bottom h3{ font-size:24px; }
+
+
+
+.architecturesection01-top h5{ font-size:18px; line-height:26px; }
+
+.architecturesection01-top h3{ font-size:23px; }
+
+.architecturesection01-top p{ font-size:13px; padding-right:0px; }
+
+.architecturesection01-bottom p{ font-size:14px; line-height:22px; }
+
+.green-section h5{ font-size:30px; }
+
+
+.homesec03-newbox03{ width:160px; right: -160px; }
+.homesec03-newbox02{ width:160px; left: -160px; }
+
+.logosec{ width:50%; }
+
+.nirmund-logosecbox h5{ font-size:13px; line-height:22px; }
+.nirmund-logosec h2{ font-size:21px; line-height:32px; }
+.footer01 ul li{ margin:0px 4px; font-size:12px; }
+
+
+
+}
+
+
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+
+img{max-width:100%; height:auto;}
+
+.logosec{ position:static; width:auto; display:table; margin:0px auto; }
+
+.topsection01-right01{ float:none; }
+
+.banner-section .full-img-text h1{ font-size:18px; line-height:normal; }
+
+.banner-section .full-img-text h6 a.website-btn{ font-size:14px; line-height:30px; padding:0px 24px; }
+
+.homesetion01{ padding:30px 0px; }
+
+.homesetion01-box h4{ font-size:22px; line-height:normal; }
+
+.homesetion01-box p{ font-size:14px; line-height:23px; text-align:justify; }
+
+.homesetion01 h6{ padding:0px 3%; font-size:14px; line-height:21px; }
+
+
+
+.homesec02{ padding-top:30px; padding-bottom:30px; }
+
+.homesec02 h2{ font-size:20px; line-height:normal; font-weight:400; padding:0px 3%; margin-bottom:30px; }
+
+.homesec02 p{ font-size:14px; line-height:22px; text-align:justify; }
+
+
+
+.homesec03{ padding:30px 0px; }
+
+.homesec03 h2{ font-size:18px; line-height:normal; }
+
+.homesec03-box01 .imgsec{ width:25%; }
+
+.homesec03-box01{padding: 0px 0px 0px 27%;}
+
+.homesec03-box01 h3{ font-size:17px; }
+
+.homesec03-box01 p{ font-size:14px; line-height:21px; text-align:justify; }
+
+
+
+.homessec04{padding:30px 0px;}
+
+.homessec04 h2{font-size:18px; line-height:normal;}
+
+.homessec04 h5{ font-size:13px; padding:0px 15px; }
+
+
+
+.homessec04-box{ background:none; }
+
+.homessec04-box01-left{ width:100%; float:none; padding:0px; margin:0px auto; }
+
+.homessec04-box01-right{ width:100%; float:none; padding:0px; margin:0px auto; }
+
+.futurebox01-right{ float:none; margin:0px auto; }
+
+.futurebox01-left{ width:100%; float:none; margin:0px auto; text-align:center; }
+
+
+
+.futurebox02-left{ float:none; margin:0px auto; }
+
+.futurebox02-right{ width:100%; float:none; margin:0px auto; text-align:center; }
+
+.homessec04-box01-left{ margin-bottom:17px; }
+
+.homessec04-box01-right{ margin-bottom:17px; }
+
+
+
+.homessec04-box02-left{width:100%; float:none; padding:0px; margin:0px auto;}
+
+.homessec04-box02-right{width:100%; float:none; padding:0px; margin:0px auto;}
+
+.homessec04-box01{ margin:0px auto 20px auto; }
+
+
+
+.homesec05{ padding:30px 0px; }
+
+.homesec05 h2{ font-size:20px; line-height:normal; }
+
+.green-section{ padding:30px 0px; }
+
+.green-section h5{ font-size:25px; line-height:normal; }
+
+.topsection02{ min-height:2px; }
+
+.banner-section .full-img-text{ text-align:center; }
+
+
+
+/*==========contact-sec start==============*/
+
+.contact-section-top{ padding:30px 0px; }
+
+.contact-section-top01-left{ width:100%; float:none; padding:0px; margin:0px auto 15px auto; }
+
+.contact-section-top01-right{ width:100%; }
+
+.contact-section-top01-left h2{ font-size:26px; line-height:normal; }
+
+
+
+/*===========founder-section start================*/
+
+.founder-section01{ padding:30px 0px; }
+
+.founder-section01 h5{ font-size:14px; line-height:normal; margin-bottom:25px; }
+
+.founder-section01 h3{ font-size:25px; line-height:normal; }
+
+.founder-section01 p{ font-size:14px; line-height:22px; text-align:justify; }
+
+.founder-section02 h2{ font-size:16px; line-height:normal; }
+
+.founder-section02-box-right{ width:78%; }
+
+.founder-section02-box-right p{ font-size:13px; line-height:21px; text-align:justify; }
+
+
+
+.founder-section03{ padding:20px 0px; }
+
+.founder-section03 .textsec h3{ font-size:25px; line-height:30px;}
+
+.founder-section03 .textsec p{ font-size:14px; line-height:22px; text-align:justify; }
+
+
+
+.problemsection01{ padding:30px 0px; }
+
+.problemsection01 .imgsec{ margin:0px auto 20px auto; }
+
+.problemsection01 .textsec p{ font-size:14px; line-height:22px; text-align:justify;}
+
+.problemsection02{ padding:25px 0px; }
+
+.solution-section h6{ font-size:14px; padding:0px 10px; }
+
+.text-left{ text-align:center; }
+
+
+
+
+
+/*=============nirmund-architecture section start======================*/
+
+.architecturesection01{ padding-top:25px; padding-bottom:25px; }
+
+.architecturesection01-top h5{ font-size:17px; line-height:normal; padding-right:0px; text-align:justify; margin-bottom:24px; }
+
+.architecturesection01-top h3{ font-size:21px; line-height:24px; }
+
+.architecturesection01-top p{ font-size:14px; line-height:20px; text-align:justify; }
+
+.architecturesection01-top{ margin-bottom:18px; }
+
+.architecturesection01-bottom h3{ font-size:19px; line-height:24px; }
+
+.architecturesection01-bottom p{ font-size:15px; line-height:22px; text-align:justify; }
+
+.architecturesection02{ padding:25px 0px; }
+
+.architecturesection02-top h2{ font-size:25px; line-height:normal; }
+
+.circle-box{ background:none; }
+
+
+
+.circle-box01{ width:100%; position:static; }
+
+.circle-box02{ width:100%; position:static; }
+
+.circle-box03{ width:100%; position:static; }
+
+.circle-box04{ width:100%; position:static; }
+
+.circle-box05{ width:100%; position:static; }
+
+.circle-box06{ width:100%; position:static; }
+
+
+
+.circleboxleft02{ float:none; padding:0px; margin:0px auto 10px auto; }
+
+.circleboxleft01{ width:100%; float:none; text-align:center; padding-top:0px;}
+
+.circleboxleft{ margin-bottom:35px; }
+
+.architecturesection02-top h5{ margin-bottom:15px; }
+
+
+
+.circleboxright02{ float:none; padding:0px; margin:0px auto 10px auto; }
+
+.circleboxright01{ width:100%; float:none; text-align:center; padding-top:0px;}
+
+.circleboxright{ margin-bottom:35px; }
+
+
+
+.architecturesection02-bottom h4{ margin-bottom:14px; }
+
+.architecturesection02-bottom01{padding: 21px 0px 20px 90px; margin-bottom:15px;}
+
+.architecturesection02-bottom01 p{ font-size:12px; }
+
+
+
+.architecturesection03-section{ padding:30px 0px; }
+
+.architecturesection03-section h2{ font-size:24px; line-height:27px; font-weight:400; }
+
+.architecturesection03-section h6{ font-size:17px; line-height:normal; }
+
+.architecturesection03-section .imgsec{ width:100%; float:none; padding:0px; margin:0px auto 20px auto; text-align:center; }
+
+.architecturesection03-section p{ font-size:14px; line-height:22px; text-align:justify; }
+
+
+
+.architecturesection04{ padding:25px 0px; }
+
+.architecturesection04 h4{ font-size:25px; line-height:35px; }
+
+.architecturesection04 ul li{ font-size:14px; line-height:24px; }
+
+.footerlogo-sec{ width:80% }
+
+
+
+/*=============nirmund-architecture section end======================*/
+
+
+
+.topsection01-right02 ul{ text-align:left; }
+
+
+.homesec03-newbox{ margin:25px auto 0px auto; }
+.homesec03-newbox .mainimg{ display:none; }
+.homesec03-newbox01{ width:100%; position: static; margin:0px auto 35px auto;}
+.homesec03-newbox01 .imgsec{ display:block; }
+.homesec03-newbox02{ width:100%; position: static; text-align:center; margin:0px auto 35px auto;}
+.homesec03-newbox02 .imgsec{ display:block; }
+.homesec03-newbox03{ width:100%; position: static; text-align:center;}
+.homesec03-newbox03 .imgsec{ display:block; }
+
+
+.topright{ width:100%; }
+.nirmund-logosec h2{ font-size:20px; line-height:normal; }
+.nirmund-logosecbox{ width:100%; float:none; margin:0px auto 20px auto; }
+
+
+
+}
+
+
+
+
+
+
+
+@media only screen and (min-width:320px) and (max-width:479px){
+
+img{max-width:100%; height:auto;}
+
+
+
+.logosec{ position:static; width:auto; display:table; margin:0px auto; }
+
+.topsection01-right01{ float:none; }
+
+.banner-section .full-img-text h1{ font-size:18px; line-height:normal; }
+
+.banner-section .full-img-text h6 a.website-btn{ font-size:14px; line-height:30px; padding:0px 24px; }
+
+.homesetion01{ padding:30px 0px; }
+
+.homesetion01-box h4{ font-size:22px; line-height:normal; }
+
+.homesetion01-box p{ font-size:14px; line-height:23px; text-align:justify; }
+
+.homesetion01 h6{ padding:0px 3%; font-size:14px; line-height:21px; }
+
+
+
+.homesec02{ padding-top:30px; padding-bottom:30px; }
+
+.homesec02 h2{ font-size:20px; line-height:normal; font-weight:400; padding:0px 3%; margin-bottom:30px; }
+
+.homesec02 p{ font-size:14px; line-height:22px; text-align:justify; }
+
+
+
+.homesec03{ padding:30px 0px; }
+
+.homesec03 h2{ font-size:18px; line-height:normal; }
+
+.homesec03-box01 .imgsec{ width:25%; }
+
+.homesec03-box01{padding: 0px 0px 0px 27%;}
+
+.homesec03-box01 h3{ font-size:17px; }
+
+.homesec03-box01 p{ font-size:14px; line-height:21px; text-align:justify; }
+
+
+
+.homessec04{padding:30px 0px;}
+
+.homessec04 h2{font-size:18px; line-height:normal;}
+
+.homessec04 h5{ font-size:13px; padding:0px 15px; }
+
+
+
+.homessec04-box{ background:none; }
+
+.homessec04-box01-left{ width:100%; float:none; padding:0px; margin:0px auto; }
+
+.homessec04-box01-right{ width:100%; float:none; padding:0px; margin:0px auto; }
+
+.futurebox01-right{ float:none; margin:0px auto; }
+
+.futurebox01-left{ width:100%; float:none; margin:0px auto; text-align:center; }
+
+
+
+.futurebox02-left{ float:none; margin:0px auto; }
+
+.futurebox02-right{ width:100%; float:none; margin:0px auto; text-align:center; }
+
+.homessec04-box01-left{ margin-bottom:17px; }
+
+.homessec04-box01-right{ margin-bottom:17px; }
+
+
+
+.homessec04-box02-left{width:100%; float:none; padding:0px; margin:0px auto;}
+
+.homessec04-box02-right{width:100%; float:none; padding:0px; margin:0px auto;}
+
+.homessec04-box01{ margin:0px auto 20px auto; }
+
+
+
+.homesec05{ padding:30px 0px; }
+
+.homesec05 h2{ font-size:20px; line-height:normal; }
+
+.green-section{ padding:30px 0px; }
+
+.green-section h5{ font-size:25px; line-height:normal; }
+
+.topsection02{ min-height:2px; }
+
+.banner-section .full-img-text{ text-align:center; }
+
+
+
+/*==========contact-sec start==============*/
+
+.contact-section-top{ padding:30px 0px; }
+
+.contact-section-top01-left{ width:100%; float:none; padding:0px; margin:0px auto 15px auto; }
+
+.contact-section-top01-right{ width:100%; }
+
+.contact-section-top01-left h2{ font-size:26px; line-height:normal; }
+
+
+
+/*===========founder-section start================*/
+
+.founder-section01{ padding:30px 0px; }
+
+.founder-section01 h5{ font-size:14px; line-height:normal; margin-bottom:25px; }
+
+.founder-section01 h3{ font-size:25px; line-height:normal; }
+
+.founder-section01 p{ font-size:14px; line-height:22px; text-align:justify; }
+
+.founder-section02 h2{ font-size:16px; line-height:normal; }
+
+.founder-section02-box-right{ width:78%; }
+
+.founder-section02-box-right p{ font-size:13px; line-height:21px; text-align:justify; }
+
+
+
+.founder-section03{ padding:20px 0px; }
+
+.founder-section03 .textsec h3{ font-size:25px; line-height:30px;}
+
+.founder-section03 .textsec p{ font-size:14px; line-height:22px; text-align:justify; }
+
+
+
+.problemsection01{ padding:30px 0px; }
+
+.problemsection01 .imgsec{ margin:0px auto 20px auto; }
+
+.problemsection01 .textsec p{ font-size:14px; line-height:22px; text-align:justify;}
+
+.problemsection02{ padding:25px 0px; }
+
+.solution-section h6{ font-size:14px; padding:0px 10px; }
+
+
+
+/*=============nirmund-architecture section start======================*/
+
+.architecturesection01{ padding-top:25px; padding-bottom:25px; }
+
+.architecturesection01-top h5{ font-size:17px; line-height:normal; padding-right:0px; text-align:justify; margin-bottom:24px; }
+
+.architecturesection01-top h3{ font-size:21px; line-height:24px; }
+
+.architecturesection01-top p{ font-size:14px; line-height:20px; text-align:justify; }
+
+.architecturesection01-top{ margin-bottom:18px; }
+
+.architecturesection01-bottom h3{ font-size:19px; line-height:24px; }
+
+.architecturesection01-bottom p{ font-size:15px; line-height:22px; text-align:justify; }
+
+.architecturesection02{ padding:25px 0px; }
+
+.architecturesection02-top h2{ font-size:25px; line-height:normal; }
+
+.circle-box{ background:none; }
+
+
+
+.circle-box01{ width:100%; position:static; }
+
+.circle-box02{ width:100%; position:static; }
+
+.circle-box03{ width:100%; position:static; }
+
+.circle-box04{ width:100%; position:static; }
+
+.circle-box05{ width:100%; position:static; }
+
+.circle-box06{ width:100%; position:static; }
+
+
+
+.circleboxleft02{ float:none; padding:0px; margin:0px auto 10px auto; }
+
+.circleboxleft01{ width:100%; float:none; text-align:center; padding-top:0px;}
+
+.circleboxleft{ margin-bottom:35px; }
+
+.architecturesection02-top h5{ margin-bottom:15px; }
+
+
+
+.circleboxright02{ float:none; padding:0px; margin:0px auto 10px auto; }
+
+.circleboxright01{ width:100%; float:none; text-align:center; padding-top:0px;}
+
+.circleboxright{ margin-bottom:35px; }
+
+
+
+.architecturesection02-bottom h4{ margin-bottom:14px; }
+
+.architecturesection02-bottom01{padding: 21px 0px 20px 90px; margin-bottom:15px;}
+
+.architecturesection02-bottom01 p{ font-size:12px; }
+
+
+
+.architecturesection03-section{ padding:30px 0px; }
+
+.architecturesection03-section h2{ font-size:24px; line-height:27px; font-weight:400; }
+
+.architecturesection03-section h6{ font-size:17px; line-height:normal; }
+
+.architecturesection03-section .imgsec{ width:100%; float:none; padding:0px; margin:0px auto 20px auto; text-align:center; }
+
+.architecturesection03-section p{ font-size:14px; line-height:22px; text-align:justify; }
+
+
+
+.architecturesection04{ padding:25px 0px; }
+
+.architecturesection04 h4{ font-size:25px; line-height:35px; }
+
+.architecturesection04 ul li{ font-size:14px; line-height:24px; }
+
+.footerlogo-sec{ width:80% }
+
+
+
+/*=============nirmund-architecture section end======================*/
+
+.topsection01-right02 ul{ text-align:left; }
+
+.homesec03-newbox{ margin:25px auto 0px auto; }
+.homesec03-newbox .mainimg{ display:none; }
+.homesec03-newbox01{ width:100%; position: static; margin:0px auto 35px auto;}
+.homesec03-newbox01 .imgsec{ display:block; }
+.homesec03-newbox02{ width:100%; position: static; text-align:center; margin:0px auto 35px auto;}
+.homesec03-newbox02 .imgsec{ display:block; }
+.homesec03-newbox03{ width:100%; position: static; text-align:center;}
+.homesec03-newbox03 .imgsec{ display:block; }
+
+.topright{ width:100%; }
+.nirmund-logosec h2{ font-size:20px; line-height:normal; }
+.nirmund-logosecbox{ width:100%; float:none; margin:0px auto 20px auto; }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
